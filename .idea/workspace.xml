@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aab43b00-e6d6-4c11-9bcd-2d70855f2def" name="Changes" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/src/MeddianOfTwoSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MeddianOfTwoSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharactersSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Medium/LongestSubstringWithoutRepeatingCharactersSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MeddianOfTwoSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hard/MeddianOfTwoSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoSumSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/TwoSumSolution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,16 +36,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MeddianOfTwoSortedArray">
-    <configuration name="LongestSubstringWithoutRepeatingCharactersSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LongestSubstringWithoutRepeatingCharactersSolution" />
+  <component name="RunManager" selected="Application.Hard.MeddianOfTwoSortedArray">
+    <configuration name="Hard.MeddianOfTwoSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hard.MeddianOfTwoSortedArray" />
       <module name="LeetcodeProblems" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MeddianOfTwoSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MeddianOfTwoSortedArray" />
+    <configuration name="Medium.LongestSubstringWithoutRepeatingCharactersSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.LongestSubstringWithoutRepeatingCharactersSolution" />
       <module name="LeetcodeProblems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -56,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSumSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoSumSolution" />
+    <configuration name="easy.TwoSumSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.TwoSumSolution" />
       <module name="LeetcodeProblems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,9 +67,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MeddianOfTwoSortedArray" />
-        <item itemvalue="Application.LongestSubstringWithoutRepeatingCharactersSolution" />
-        <item itemvalue="Application.TwoSumSolution" />
+        <item itemvalue="Application.Hard.MeddianOfTwoSortedArray" />
+        <item itemvalue="Application.Medium.LongestSubstringWithoutRepeatingCharactersSolution" />
+        <item itemvalue="Application.easy.TwoSumSolution" />
         <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
@@ -95,7 +97,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671039005984</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1671039377856</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671039377856</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first commit">
+      <created>1671039500980</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671039500980</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
