@@ -1,3 +1,5 @@
+package Medium;
+
 public class LongestSubstringWithoutRepeatingCharactersSolution {
     public int lengthOfLongestSubstring(String s) {
         if (s == null) {
