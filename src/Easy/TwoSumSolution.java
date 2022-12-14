@@ -1,6 +1,4 @@
-package easy;
-
-import java.util.Arrays;
+package Easy;
 
 public class TwoSumSolution {
     public static int[] twoSum(int[] nums, int target) {
